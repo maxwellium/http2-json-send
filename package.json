@@ -2,10 +2,10 @@
   "name": "http2-json-send",
   "version": "0.1.0",
   "description": "",
-  "main": "build/index.js",
-  "types": "build/index.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "build/"
+    "dist/"
   ],
   "type": "module",
   "license": "MIT",
